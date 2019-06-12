@@ -1,0 +1,9 @@
+D:\Projects\AES_Encryption\AES_Encryption\bin\Debug\AES_Encryption.exe.config
+D:\Projects\AES_Encryption\AES_Encryption\bin\Debug\AES_Encryption.exe
+D:\Projects\AES_Encryption\AES_Encryption\bin\Debug\AES_Encryption.pdb
+D:\Projects\AES_Encryption\AES_Encryption\obj\Debug\AES_Encryption.csprojResolveAssemblyReference.cache
+D:\Projects\AES_Encryption\AES_Encryption\obj\Debug\AES_Encryption.Form_Main.resources
+D:\Projects\AES_Encryption\AES_Encryption\obj\Debug\AES_Encryption.Properties.Resources.resources
+D:\Projects\AES_Encryption\AES_Encryption\obj\Debug\AES_Encryption.csproj.GenerateResource.Cache
+D:\Projects\AES_Encryption\AES_Encryption\obj\Debug\AES_Encryption.exe
+D:\Projects\AES_Encryption\AES_Encryption\obj\Debug\AES_Encryption.pdb
